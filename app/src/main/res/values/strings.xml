@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Ruler Using Sensor</string>
+    <string name="x_axis">X-axis</string>
+    <string name="y_axis">Y-axis</string>
+    <string name="z_axis">Z-axis</string>
+    <string name="enable_sensor">Enable Sensor</string>
+</resources>
